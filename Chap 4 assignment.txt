@@ -1,0 +1,12 @@
+<HTML>
+<HEAD>
+<TITLE>
+A Table
+</TITLE>
+</HEAD>
+<BODY>
+<TABLE border=1><TR>
+<TH rowspan=5 valign="center">Alpha</TH><TH colspan=5>Beta</TH></TR>
+</TABLE>
+</BODY>
+</HTML>
